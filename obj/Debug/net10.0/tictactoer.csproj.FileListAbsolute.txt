@@ -1,0 +1,14 @@
+C:\Users\qurat\Desktop\tictactoer\bin\Debug\net10.0\tictactoer.exe
+C:\Users\qurat\Desktop\tictactoer\bin\Debug\net10.0\tictactoer.deps.json
+C:\Users\qurat\Desktop\tictactoer\bin\Debug\net10.0\tictactoer.runtimeconfig.json
+C:\Users\qurat\Desktop\tictactoer\bin\Debug\net10.0\tictactoer.dll
+C:\Users\qurat\Desktop\tictactoer\bin\Debug\net10.0\tictactoer.pdb
+C:\Users\qurat\Desktop\tictactoer\obj\Debug\net10.0\tictactoer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qurat\Desktop\tictactoer\obj\Debug\net10.0\tictactoer.AssemblyInfoInputs.cache
+C:\Users\qurat\Desktop\tictactoer\obj\Debug\net10.0\tictactoer.AssemblyInfo.cs
+C:\Users\qurat\Desktop\tictactoer\obj\Debug\net10.0\tictactoer.csproj.CoreCompileInputs.cache
+C:\Users\qurat\Desktop\tictactoer\obj\Debug\net10.0\tictactoer.dll
+C:\Users\qurat\Desktop\tictactoer\obj\Debug\net10.0\refint\tictactoer.dll
+C:\Users\qurat\Desktop\tictactoer\obj\Debug\net10.0\tictactoer.pdb
+C:\Users\qurat\Desktop\tictactoer\obj\Debug\net10.0\tictactoer.genruntimeconfig.cache
+C:\Users\qurat\Desktop\tictactoer\obj\Debug\net10.0\ref\tictactoer.dll
